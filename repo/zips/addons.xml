@@ -161,8 +161,8 @@
             <fanart>fanart.png</fanart>
         </assets>
     </extension>
-</addon><addon id="repository.2kdevs" name="2kdevs Repository" version="1.0.0" provider-name="2kdevs">
-    <extension point="xbmc.addon.repository" name="2kdevs Repository Repository">
+</addon><addon id="repository.2kdevs" name="2kdevs Repository" version="1.0.1" provider-name="2kdevs">
+    <extension point="xbmc.addon.repository" name="2kdevs Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/2kdevs/2kdevsrepo/master/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/2kdevs/2kdevsrepo/master/repo/zips/addons.xml.md5</checksum>
