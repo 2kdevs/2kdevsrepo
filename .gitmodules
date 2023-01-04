@@ -1,0 +1,3 @@
+[submodule "repo/plugin.program.openwizard"]
+	path = repo/plugin.program.openwizard
+	url = https://github.com/2kdevs/plugin.program.openwizard
